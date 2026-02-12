@@ -1,0 +1,10 @@
+{
+  "name": "gt-fe-bsg-skills",
+  "version": "0.1.0",
+  "description": "统一的团队技能库（Skills Registry），提供标准化目录、元数据与文档。",
+  "private": true,
+  "scripts": {
+    "lint": "echo \"No lint configured\"",
+    "build": "echo \"No build step\""
+  }
+}

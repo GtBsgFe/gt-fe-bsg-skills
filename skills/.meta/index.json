@@ -1,0 +1,36 @@
+{
+  "skills": [
+    {
+      "id": "git-committer",
+      "name": "git-committer",
+      "category": "git",
+      "path": "skills/git/git-committer/SKILL.md",
+      "version": "1.0.0",
+      "description": "分析变更生成 commit message"
+    },
+    {
+      "id": "merge-code",
+      "name": "merge-code",
+      "category": "git",
+      "path": "skills/git/merge-code/SKILL.md",
+      "version": "1.0.0",
+      "description": "自动化合并到 dev 并更新版本"
+    },
+    {
+      "id": "pull-latest-code",
+      "name": "pull-latest-code",
+      "category": "git",
+      "path": "skills/git/pull-latest-code/SKILL.md",
+      "version": "1.0.0",
+      "description": "拉取当前分支最新代码"
+    },
+    {
+      "id": "push-code",
+      "name": "push-code",
+      "category": "git",
+      "path": "skills/git/push-code/SKILL.md",
+      "version": "1.0.0",
+      "description": "推送代码到远程仓库"
+    }
+  ]
+}
